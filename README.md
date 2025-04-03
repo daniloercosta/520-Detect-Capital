@@ -1,3 +1,5 @@
+![Imagem do Projeto](projeto.png)
+
 # 🔠 Detect Capital
 
 Este é um projeto em C# que verifica se o uso de letras maiúsculas em uma palavra está correto. O programa segue três regras principais para considerar uma palavra válida:
